@@ -7,7 +7,7 @@ To set up a multibranch pipeline in Jenkins that deploys applications to a Tomca
 - **Jenkins server for CI/CD**: t2.medium, Ubuntu Linux, ap-south-1b
 - **SonarQube server for code Analysis**: t2.small, Ubuntu Linux, ap-south-1a
 - **Tomcat server for app deployment**: t2.micro, Ubuntu Linux, ap-south-1a
-- - **NGINX server for reverse proxy**: t2.micro, Ubuntu Linux, ap-south-1a
+- **NGINX server for reverse proxy**: t2.micro, Ubuntu Linux, ap-south-1a
 
 
 ## Stage 1: Install and Configure Jenkins Server
